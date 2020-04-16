@@ -29,7 +29,7 @@
 #include "usbd_cdc_if.h"
 #include "oled.h"
 #include <stdio.h>
-#include <stdlib.h>
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
